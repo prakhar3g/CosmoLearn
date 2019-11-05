@@ -34,7 +34,7 @@ AR Book pdf--[AR-Book (.pdf](https://github.com/prakhar3g/CosmoLearn/files/38051
 <br>
 <br>
 ### Login Page:-
-![Screenshot (20)](https://user-images.githubusercontent.com/42642799/68224729-2c8d6a80-0015-11ea-917b-62f69b30a5f7.png)
+![Screenshot (31)](https://user-images.githubusercontent.com/42642799/68233832-015f4700-0026-11ea-882b-ebcc45dd9cdc.png)
 <br>
 <br>
 ### DashBoard:-
@@ -59,6 +59,7 @@ AR Book pdf--[AR-Book (.pdf](https://github.com/prakhar3g/CosmoLearn/files/38051
 ### Biology:-
 ![Screenshot (26)](https://user-images.githubusercontent.com/42642799/68226376-f9000f80-0017-11ea-85e2-032a498d08e5.png)
 <br>
+![Screenshot (48)](https://user-images.githubusercontent.com/42642799/68234217-c1e52a80-0026-11ea-841b-86fdadc7c10a.png)
 <br>
 <br>
 ### Physics:-
